@@ -28,7 +28,7 @@ class TodoListSeeder extends Seeder
                     'updated_at' => now(),
                 ],
                 [
-                    'name' => 'うんちブリブリ',
+                    'name' => 'テスト3',
                     'created_at' => now(),
                     'updated_at' => now(),
                 ],
